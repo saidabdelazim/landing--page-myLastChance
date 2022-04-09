@@ -1,0 +1,6 @@
+# at first I declare a variable  with sections name and i make it an array  so I can loop in it
+# used function to create list item 
+# use a function to observe what's section in view port
+to help me to add classList or remove this classList
+# use function to add an event Listener to the navBar to do an event when Iam clicking on the nav bar to scroll to the specific section 
+# I add some css to make it responsive 
